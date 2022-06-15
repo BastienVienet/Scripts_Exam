@@ -1,0 +1,31 @@
+﻿FirstName,Initials,Lastname,Username,Email,Department,Password,JobTitle,Company,OU,ExpirationDate
+Christian,CF,Forest,foresc1,forest.christian@softdev.ch,_Finance,Tp&{UZHS>7@/,Financial Analyst,SoftDev,"OU=_Finance,DC=ad,DC=private",31.12.2022
+Dylan,DC,Chevalet,chevad1,chevalet.dylan@softdev.ch,_Finance,yr)bCE}!/+X2,Economist,SoftDev,"OU=_Finance,DC=ad,DC=private",31.12.2022
+Adorlee,AM,Marceau,marcea1,marceau.adorlee@softdev.ch,_Finance,pqDa&4^wC*K.,Purchasing Clerk,SoftDev,"OU=_Finance,DC=ad,DC=private",31.12.2022
+Bellamy,BC,Couturier,coutub1,couturier.bellamy@softdev.ch,_Finance,fQeE@S]rH2z(,Personal Finance advisor,SoftDev,"OU=_Finance,DC=ad,DC=private",31.12.2022
+Benoît,BG,Givry,givryb1,givry.benoit@softdev.ch,_Finance,XU}WZ5bCcTNk,Purchasing manager,SoftDev,"OU=_Finance,DC=ad,DC=private",31.12.2022
+Mignonette,MP,Pouliotte,poulim1,pouliotte.mignonette@softdev.ch,_Finance,d5F[uxQnNZW2,Economist,SoftDev,"OU=_Finance,DC=ad,DC=private",31.12.2022
+Olympia,OC,Charest,chareo1,charest.olympia@softdev.ch,_Finance,n5LcdjUv?bEB,Credit Analyst,SoftDev,"OU=_Finance,DC=ad,DC=private",31.12.2022
+Eugène,EL,Lamy,lamye1,lamy.eugene@softdev.ch,_Finance,89PqC_%VM}Xn,Economist,SoftDev,"OU=_Finance,DC=ad,DC=private",31.12.2022
+Lirienne,LJ,Jetté,jettel,jette.lirienne@softdev.ch,_Finance,HkL3w)W{a}6D,Payroll manager,SoftDev,"OU=_Finance,DC=ad,DC=private",31.12.2022
+Cinderella,CS,Sabourin,sabouc1,sabourin.cinderella@softdev.ch,_Finance,c*J8vxTbV-d{,Treasurer,SoftDev,"OU=_Finance,DC=ad,DC=private",31.12.2022
+Jesper,JC,Clément,clemej1,clement.jesper@sofdev.ch,_IT,yv[L*5e^N-mt,Business systems analyst,SoftDev,"OU=_IT,DC=ad,DC=private",31.12.2022
+Granville,GF,Fongemie,fongeg1,fongemie.granville@softdev.ch,_IT,}R5$7-sWvCwJ,Back-end developer,SoftDev,"OU=_IT,DC=ad,DC=private",31.12.2022
+Trinette,TB,Barette,barett1,barette.trinette@softdev.ch,_IT,}=)6fe9Ertk4,Front-end developer,SoftDev,"OU=_IT,DC=ad,DC=private",31.12.2022
+Percy,PB,Baril,barilp1,baril.percy@softdev.ch,_IT,2}(wk/)ntPm-,Full-stack developer,SoftDev,"OU=_IT,DC=ad,DC=private",31.12.2022
+Philippine,PD,Dulin,dulinp1,dulin.philippine@softdev.ch,_IT,%xr+JB9!}wbU,Java developer,SoftDev,"OU=_IT,DC=ad,DC=private",31.12.2022
+Stéphanie,SA,Alexandre,alexas1,alexandre.stephanie@softdev.ch,_IT,5]a!w9MPrvhW,Software enginner,SoftDev,"OU=_IT,DC=ad,DC=private",31.12.2022
+Christian,CB,Barteaux,bartec1,barteaux.christian@softdev.ch,_IT,NBZxESv@6M3h,Web developer,SoftDev,"OU=_IT,DC=ad,DC=private",31.12.2022
+Lowell,LP,Patenaude,patenl1,patenaude.lowell@softdev.ch,_IT,s$W(DTB3%c&m,Computer systems manager,SoftDev,"OU=_IT,DC=ad,DC=private",31.12.2022
+Ormazd,OD,Davignon,davigo1,davignon.ormazd@sofdev.ch,_IT,Cm}pU$>dE!g4,Network administrator ,SoftDev,"OU=_IT,DC=ad,DC=private",31.12.2022
+Quennel,QB,Bisaillon,bisaiq1,bisaillon.quennel@softdev.ch,_IT,Z4sWv)nRza%{,Security systems administrator,SoftDev,"OU=_IT,DC=ad,DC=private",31.12.2022
+Cosette,CB,Brian,brianc1,brian.cosette@softdev.ch,_Marketing,f^AUX+erJgR2,Content marketing specialist,SoftDev,"OU=_Marketing,DC=ad,DC=private",31.12.2022
+Martin,MM,Marceau,marcem2,marceau.martin@softdev.ch,_Marketing,=(*dSZQ_gXh5,Communication manager,SoftDev,"OU=_Marketing,DC=ad,DC=private",31.12.2022
+Arnou,AR,Renaud,renaua1,renaud.arnou@softdev.ch,_Marketing,R*N=a-JF7pVt,Marketing Coordinator,SoftDev,"OU=_Marketing,DC=ad,DC=private",31.12.2022
+Solaine,SF,Faubert,faube1,faubert.solaine@softdev.ch,_Marketing,XAmLHvdp+[5D,Brand Manager,SoftDev,"OU=_Marketing,DC=ad,DC=private",31.12.2022
+Bernard,BB,Brousseau,brousb1,brousseau.bernard@softdev.ch,_Marketing,f4bSJ/sNh[p(,Director of Marketing,SoftDev,"OU=_Marketing,DC=ad,DC=private",31.12.2022
+Germain,GB,Bourgeau,bourgg1,bourgeau.germain@softdev.ch,_RH,w-Nv73/+cJTk,Recruiter,SoftDev,"OU=_RH,DC=ad,DC=private",31.12.2022
+Dominique,DD,Dumoulin,dumoud1,dumoulin.dominique@softdev.ch,_RH,vdJ8[g9u>D@Z,HR coordinator ,SoftDev,"OU=_RH,DC=ad,DC=private",31.12.2022
+Montague,MC,Cousteau,coustm1,cousteau.montague@softdev.ch,_RH,r&h7d]L%ckKA,Compensation and benefits manager ,SoftDev,"OU=_RH,DC=ad,DC=private",31.12.2022
+Benjamin,BG,Grignon,grignb1,grignon.benjamin@softdev.ch,_RH,)8_*YeGs(M?d,Chief diversity officer,SoftDev,"OU=_RH,DC=ad,DC=private",31.12.2022
+Amaury,AB,Boncoeur ,boncoa1,boncoeur.amaury@softdev.ch,_RH,s$TbpQtu7>nk,HR director,SoftDev,"OU=_RH,DC=ad,DC=private",31.12.2022
